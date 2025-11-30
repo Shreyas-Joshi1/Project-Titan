@@ -10,9 +10,9 @@ The design focuses on decoupling critical paths using **microservices** (Auth, O
 ## 🗺️ System Design Diagram
 A high-level view of the entire architecture, illustrating the request flow from the user through the primary node to the backend services and workers.
 
-<img width="1395" height="769" alt="Screenshot 2025-11-30 175350" src="https://github.com/user-attachments/assets/d134b445-e7da-40c3-9d6e-8bbea4487228" />
+<img width="2557" height="1685" alt="Project Titan" src="https://github.com/user-attachments/assets/b65bf45a-a663-4bc4-a14c-d3c79a0d3fe7" />
 
-*(Note: The full design rationale is available in the Design Document below.)*
+*(Note: The full design rationale is available in the design_document.md file.)*
 
 ---
 
